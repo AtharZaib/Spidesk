@@ -1,0 +1,1452 @@
+@media (max-width: 1890px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 11.3% 0 9% 36px;
+}
+}
+@media (max-width: 1790px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 10% 0 9% 36px;
+}
+}
+@media (max-width: 1784px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 8% 0 8% 36px;
+}
+}
+@media (max-width: 1690px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 7% 0 7% 36px;
+}
+}
+@media (max-width: 1611px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 4% 0 5% 36px;
+}
+}
+@media (max-width: 1590px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 3% 0 3% 36px;
+}
+}
+@media (max-width: 1400px) {
+.discount-area .rimg{ display:none;}
+.sec-services {background: #fff;}
+
+}
+@media (max-width: 1490px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 2% 0 2% 36px;
+}
+}
+@media (max-width: 1460px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 1% 0 1% 36px;
+}
+}
+@media (max-width: 1390px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    height: auto;
+    padding: 0 0 0 10px;
+}
+}
+@media (max-width: 1330px) {
+.sec-portfolio-box .sec-portfolio-box-1 {
+    padding: 20px 0 20px 10px;
+}
+.sec-portfolio-box h3 span {
+    font-size: 35px;
+}
+}
+@media (max-width: 1230px) {
+
+
+
+.sec-portfolio-box .sec-portfolio-box-1 .button {
+    padding: 0px 0 21px 0;
+}
+.banner {
+    padding: 0 0;
+}
+}
+
+@media (min-width: 1261px) and (max-width: 1366px){
+	.all_in_one ul.features-ul li {
+		padding: 10px 50px;
+	}
+    #projec-single-slider .item {
+        height: 500px;
+        background-size: 100% !important;
+        background-position: top right !important;
+    }
+
+    
+
+    .banner {
+        height: 500px;
+    }
+
+    .banner-box .heading, #projec-single-slider .heading {
+        font-size: 40px;
+    }
+
+    .banner .banner-box .button a.btn {
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    .paragraph {
+        font-size: 14px;
+    }
+
+    .sec-digital-agency-box .heading {
+        margin-bottom: -10px;
+    }
+
+    .banner .banner-box .button span {
+        font-size: 14px;
+    }
+
+    .heading {
+        font-size: 52px;
+        padding-top: 0;
+    }
+
+    .sec-digital-agency .sec-digital-agency-box-inner h3 {
+        font-size: 30px;
+    }
+
+    .sec-portfolio-box h3 {
+        font-size: 27px;
+    }
+
+    .sec-packages h1.heading {
+        font-size: 42px;
+    }
+
+    .testimonial-area .captionbox h3 {
+        font-size: 28px;
+    }
+
+    .testimonial-area .captionbox h2 {
+        font-size: 62px;
+    }
+
+    .testimonial-area .slider-area .testibox {
+        min-height: 370px;
+    }
+
+    .testimonial-area .slider-area .testibox {
+        width: 95%;
+        max-width: 344px;
+        background: #fff;
+        -webkit-box-shadow: 0px 0px 6px 1px #999;
+        -moz-box-shadow: 0px 0px 6px 1px #999;
+        box-shadow: 0px 0px 6px 1px #999;
+        position: relative;
+        padding: 60px 30px 30px 30px;
+        font-size: 14px;
+        color: #999999;
+        line-height: 20px;
+        border-radius: 5px;
+        margin-left: 10px;
+    }
+
+    .testimonial-area .slider-area .testibox .quoter {
+        top: -13%;
+    }
+
+    .discount-area .buttonarea .btnn {
+        padding: 10px 35px;
+        font-size: 17px;
+    }
+
+    .discount-area .buttonarea .lbtnn {
+        padding: 10px 55px;
+        font-size: 17px;
+    }
+
+    .pkg-sealed-icn:before {
+        width: 108px;
+        right: -20px;
+    }
+
+    .digitalpartner-area h2 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+
+
+    
+
+    .webprocess {
+        padding: 50px 0;
+        min-height: 450px;
+    }
+
+    .webprocess .processbox .detailbox-area {
+        padding-top: 50px;
+    }
+
+    .webprocess .processbox {
+        min-height: 410px;
+        background-size: 60%;
+    }
+
+    .header .navbar {
+        min-height: auto;
+        padding: 10px 0;
+        margin: 0;
+    }
+
+    div#mega-packg img {
+        max-width: inherit;
+        width: 120%;
+        margin-left: 40px;
+        margin-top: 40px;
+    }
+
+    /*Inner Banner*/
+
+    .banner-about, .banner-reviews, .banner-contact, .banner-portfolio, .banner-logo, .banner-package, .banner-web, .banner-print, .banner-video {
+        /* background-size: contain; */
+        background-size: 100%;
+        background-position: top right;
+    }
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1260px){
+	.all_in_one ul.features-ul li {
+		padding: 10px 50px;
+	}
+	
+	.all_in_one_first img {
+		width: 100%;
+		max-width: initial;
+		margin-bottom: -20px;
+	}
+
+    /*.sec-packages {
+        padding: 50px 50px !important;
+    }*/
+
+    #projec-single-slider .item {
+        height: 500px;
+        background-size: 100% !important;
+        background-position: top right !important;
+    }
+
+    
+        
+    .head-top ul li a {
+        font-size: 13px;
+    }
+
+    .header .navbar {
+        min-height: auto;
+        padding: 10px 0;
+        margin: 0;
+    }
+    .banner {
+        height: 470px;
+    }
+
+    .banner-box .heading, #projec-single-slider .heading  {
+        font-size: 40px;
+    }
+
+    .banner .banner-box .button a.btn {
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    .paragraph {
+        font-size: 14px;
+    }
+
+    .sec-digital-agency-box .heading {
+        margin-bottom: -10px;
+    }
+
+    .banner .banner-box .button span {
+        font-size: 14px;
+    }
+
+    .heading {
+        font-size: 52px;
+        padding-top: 0;
+    }
+
+    .sec-digital-agency .sec-digital-agency-box-inner h3 {
+        font-size: 30px;
+    }
+
+    .sec-portfolio-box h3 {
+        font-size: 27px;
+    }
+
+    .sec-packages h1.heading {
+        font-size: 40px;
+    }
+
+    .testimonial-area .captionbox h3 {
+        font-size: 28px;
+    }
+
+    .testimonial-area .captionbox h2 {
+        font-size: 62px;
+    }
+
+    .testimonial-area .slider-area .testibox {
+        min-height: 370px;
+        width: 94%;
+    }
+
+    .testimonial-area .slider-area .testibox .quoter {
+        top: -13%;
+    }
+
+    .discount-area .buttonarea .btnn {
+        padding: 10px 35px;
+        font-size: 17px;
+    }
+
+    .discount-area .buttonarea .lbtnn {
+        padding: 10px 55px;
+        font-size: 17px;
+    }
+
+    .pkg-sealed-icn:before {
+        width: 108px;
+        right: -20px;
+    }
+
+    .digitalpartner-area h2 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+
+
+
+   
+
+    .webprocess {
+        padding: 50px 0;
+        min-height: 450px;
+    }
+
+    .webprocess .processbox .detailbox-area {
+        padding-top: 50px;
+    }
+
+    .webprocess .processbox {
+        min-height: 410px;
+        background-size: 60%;
+    }
+
+    .pack-title {
+        font-size: 26px;
+    }
+
+    .pack-price h4 {
+        font-size: 42px;
+    }
+
+    .button.packages-box-bottom-btn a.btn-bottom {
+        font-size: 18px;
+    }
+
+    .sec-portfolio h1.heading {
+        font-size: 40px;
+    }
+
+    .sec-logo-design h1 {
+        font-size: 40px;
+    }
+
+    .sec-logo-design .button a.btn-chat {
+        font-size: 25px;
+    }
+
+    .testimonial-area h2 {
+        font-size: 40px;
+    }
+
+    div#mega-packg img {
+        max-width: inherit;
+        width: 120%;
+        margin-left: 0px;
+        margin-top: 0;
+    }
+
+    .special-packg-sec h2 {
+        font-size: 36px;
+        padding: 0 0 0 130px;
+            line-height: 36px;
+    }
+    .special-packg-sec h2 span {
+        font-size: 30px;
+    }
+
+    .special-packg-sec.special-branding p {
+        font-size: 12.5px;
+        font-weight: 300;
+    }
+
+    ul.check-ul li {
+        font-size: 13px;
+        font-weight: 400;
+        margin: 0 0 3px;
+    }
+
+    .price {
+        font-size: 45px;
+        font-weight: 700;
+    }
+
+    .special-ordernow {
+        padding: 10px 30px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    /*Inner Banner*/
+
+    .banner-about, .banner-reviews, .banner-contact, .banner-portfolio, .banner-logo, .banner-package, .banner-web, .banner-print, .banner-video {
+        /* background-size: contain; */
+        background-size: 100%;
+        background-position: top right;
+    }
+}
+
+@media (min-width: 991px) and (max-width: 1199px){
+	.all_in_one ul.special-pkg-cta li {
+		margin: 0 30px 0 0;
+	}
+	.all_in_one h2 {
+		padding: 0px !important;
+	}
+	
+	.all_in_one .megapack-title {
+		font-size: 15px;
+	}
+	.all_in_one ul.features-ul li {
+		padding: 10px 30px;
+	}
+
+    #projec-single-slider .item {
+        height: 415px;
+        background-size: 100% !important;
+        background-position: top right !important;
+    }
+    .banner {
+        height: 400px
+    }
+
+
+    .banner-box .heading, #projec-single-slider .heading {
+        font-size: 36px;
+    }
+
+    .banner .banner-box .button a.btn {
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    .paragraph {
+        font-size: 14px;
+    }
+
+    .sec-digital-agency-box .heading {
+        margin-bottom: -10px;
+    }
+
+    .banner .banner-box .button span {
+        font-size: 14px;
+    }
+
+    .heading {
+        font-size: 42px;
+        padding-top: 30px;
+    }
+
+    .sec-digital-agency .sec-digital-agency-box-inner h3 {
+        font-size: 24px;
+    }
+
+    .sec-digital-agency .sec-digital-agency-box-inner img {
+        width: 45px;
+    }
+
+    .sec-portfolio-box h3 {
+        font-size: 27px;
+    }
+
+    .sec-packages h1.heading {
+        font-size: 42px;
+    }
+
+    .testimonial-area .captionbox h3 {
+        font-size: 28px;
+    }
+
+    .testimonial-area .captionbox h2 {
+        font-size: 62px;
+    }
+
+    .testimonial-area .slider-area .testibox {
+        min-height: 370px;
+        width: 90%;
+    }
+
+    .testimonial-area .slider-area .testibox .quoter {
+        top: -13%;
+    }
+
+    .discount-area .buttonarea .btnn {
+        padding: 10px 35px;
+        font-size: 17px;
+    }
+
+    .discount-area .buttonarea .lbtnn {
+        padding: 10px 55px;
+        font-size: 17px;
+    }
+
+    .pkg-sealed-icn:before {
+        width: 108px;
+        right: -20px;
+    }
+
+    .digitalpartner-area h2 {
+        font-size: 38px;
+        line-height: 50px;
+    }
+
+
+
+    .sec-digital-agency .sec-digital-agency-box-inner p {
+        font-size: 13px;
+    }
+
+    .sec-benefits h4 {
+        font-size: 17px;
+    }
+
+    .sec-benefits p {
+        font-size: 12px;
+    }
+
+    .sec-portfolio h1.heading {
+        font-size: 36px;
+        padding-top: 0;
+    }
+
+    .sec-portfolio-box h3 span {
+        font-size: 32px;
+    }
+
+
+    .sec-portfolio-box-1 p {
+        font-size: 13px;
+    }
+
+    .sec-portfolio-box .sec-portfolio-box-1 .button a {
+        font-size: 13px;
+    }
+    .clients img {
+        padding: 15px 0 0 0;
+        width: 70%;
+    }
+
+    .clients ul li:after {
+        width: 17px;
+        height: 105px;
+        right: 10px;
+    }
+
+    .clients ul li {
+        padding-right: 4px;
+    }
+
+    .clients ul li:nth-child(4):after {
+        right: 17px;
+    }
+
+    .sec-portfolio-box .sec-portfolio-box-1 {
+        padding: 20px 0 0px 10px;
+    }
+
+    .sec-portfolio-box .sec-portfolio-box-1 .button {
+        padding: 0px 0 0 0;
+        margin-bottom: 0;
+    }
+
+    .header .nav>li>a {
+        font-size: 14px;
+        padding: 15px 10px 10px;
+    }
+
+    .header .navbar {
+        padding: 10px 0;
+    }
+
+    .sec-portfolio {
+        padding: 30px 0 0;
+    }
+
+    .navbar-right {
+        margin-top: 5px;
+    }
+
+    .webprocess .processbox {
+        min-height: 300px;
+    }
+
+    .webprocess .processbox .detailbox-area h2 {
+        text-align: left !important;
+    }
+
+    .webprocess .processbox .detailbox-area .detailbox {
+        text-align: left !important;
+        display: block;
+        margin: 15px auto;
+    }
+
+    .process-img img {
+        width: 50%;
+        float: right;
+    }
+
+    .webprocess .processbox .detailbox-area {
+        width: 50%;
+        max-width: 350px;
+        padding-top: 0;
+        float: left;
+    }
+
+    .webprocess {
+        float: left;
+        min-height: 450px;
+    }
+
+    .testimonial-area .captionbox {
+        width: 100% !important;
+        max-width: 350px;
+        color: #000;
+        font-size: 18px;
+        line-height: 24px;
+        margin-left: 15%;
+        margin: 15px 0;
+    }
+
+    .testimonial-area aside.col-lg-3 {
+        width: 35%;
+    }
+
+    .testimonial-area aside.col-xs-12.col-sm-12.col-md-12.col-lg-9{
+        width: 65%;
+    }
+
+    div#mega-packg img {
+        max-width: inherit;
+        width: 120%;
+        margin-left: 0px;
+        margin-top: 40px;
+    }
+
+    .special-packg-sec h2 {
+        font-size: 36px;
+        padding: 0 0 0 130px;
+            line-height: 36px;
+    }
+    .special-packg-sec h2 span {
+        font-size: 30px;
+    }
+
+    .special-packg-sec.special-branding p {
+        font-size: 12.5px;
+        font-weight: 300;
+    }
+
+    ul.check-ul li {
+        font-size: 13px;
+        font-weight: 400;
+        margin: 0 0 3px;
+    }
+
+    .price {
+        font-size: 45px;
+        font-weight: 700;
+    }
+
+    .special-ordernow {
+        padding: 10px 30px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    /*Inner Banner*/
+
+    .banner-about, .banner-reviews, .banner-contact, .banner-portfolio, .banner-logo, .banner-package, .banner-web, .banner-print, .banner-video {
+        /* background-size: contain; */
+        background-size: 100%;
+        background-position: top right;
+    }
+}
+@media (max-width: 1170px) {
+    .sec-portfolio-box .sec-portfolio-box-1 {
+        padding: 20px 0 20px 10px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 1199px) {
+/*.discount-area .buttonarea .btnn{ padding:10px 20px; font-size:26px;}
+.discount-area .buttonarea .lbtnn{ padding:10px 20px; font-size:26px;}
+.testimonial-area .captionbox{ display:table; margin:15px auto;}
+.webprocess .processbox { background:none;}
+.webprocess .processbox .detailbox-area{ max-width:none;}
+.webprocess .processbox .process-img{ display:block; margin:30px auto; text-align:center;}
+.webprocess .processbox .detailbox-area h2{ text-align:center;}
+.webprocess .processbox .detailbox-area .detailbox{ text-align:center; display:block; margin:15px auto;}
+.banner .banner-box {
+    padding: 0;
+}
+.head-top ul li {
+    padding: 7px 12px;
+}
+.header .nav>li>a {
+    font-size: 14px;
+    padding: 10px 10px;
+}
+.packages-box-mid-top {
+    background: #00d4ff;
+    width: 90%;
+   
+}*/
+}
+@media (max-width: 991px) {
+.discount-area .buttonarea .btnn{ padding:10px 20px; font-size:20px;}
+.discount-area .buttonarea .lbtnn{ padding:10px 20px; font-size:20px;}
+.digitalpartner-area h2{ display:block; text-align:center; margin-bottom:15px;}
+.digitalpartner-area p{ text-align:center; margin-bottom:30px;}
+.digitalpartner-area .btns-box{ margin-bottom:60px;}
+.webprocess .processbox .detailbox-area{ padding-top:40px;}
+.header .navbar-toggle, .header .navbar-toggle .icon-bar{border: 1px solid #07019e;}
+.banner{background-position: left;}
+.header .nav>li>a {font-size: 12px;padding: 21px 2px 0;}
+.packages-box { float: left;width: 100%;margin-bottom: 30px;}
+.banner {
+    height: 470px;
+}
+.sec-logo-design {
+    background: #e5e6e8;
+}
+.sec-about {
+    background: #e5e6e8;
+    
+}
+.packages-box-mid-top {
+    background: #00d4ff;
+    width: 90%;
+   
+}
+.banner .banner-box {
+    width: 65%;
+}
+ul.nav.navbar-nav.navbar-right {
+    padding: 0 15px;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 16px 5px;
+    font-size: 18px;
+    line-height: 20px;
+}
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: center;
+}
+.sec-digital-agency .sec-digital-agency-box-inner {
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.sec-digital-agency .sec-digital-agency-box-inner p {
+    text-align: center;
+}
+.sec-benefits .col-md-3 p {
+    text-align: center;
+}
+.sec-benefits .col-md-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.sec-portfolio-box .sec-portfolio-box-1 .button {
+    float: left;
+    width: auto;
+}
+.sec-portfolio-box .sec-portfolio-box-1 .button a {
+    
+    padding: 12px 50px;
+    width: auto;
+    
+}
+.sec-portfolio-box .sec-portfolio-box-1 {
+    padding: 20px 15px 20px 15px;
+}
+.sec-portfolio-box img {
+    width: auto;
+    margin: 0 auto;
+}
+.sec-portfolio-box .hovereffect {
+    margin: 0 auto;
+    display: flex;
+}
+.sec-portfolio-box h3 span {
+    font-size: 30px;
+    display: inline-block;
+}
+.sec-portfolio ul#nav-tabs-wrapper li a {
+    color: #87899c;
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+}
+.sec-portfolio-box h3 {
+    font-size: 25px;
+    font-weight: bold;
+    color: #001835;
+    width: 100%;
+}
+.sec-services-box-inner{
+    text-align:center;
+}
+.digitalpartner-area h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    
+}
+.testimonial-area h2{
+    font-size:30px;
+}
+
+}
+/*@media (max-width: 767px) {
+.discount-area .buttonarea .btnn{ padding:13px 25px; font-size:30px; margin:8px auto; display:block;}
+.discount-area .buttonarea .lbtnn{ padding:13px 25px; font-size:30px; margin:8px auto; display:block;}
+.footer h2 { text-align:center; display:table; margin:15px auto;}
+.footer p{ text-align:center;}
+.footer img{ display:block; text-align:center; margin:10px auto;}
+.footer .service ul {float:none; display:table; margin:10px auto;}
+.footer .service ul li{text-align:center;}
+.digitalpartner-area .btns-box .dordernow{ display:table; margin:15px auto; text-align:center;}
+.digitalpartner-area .btns-box .dlchat{ display:table; margin:15px auto; text-align:center;}
+.digitalpartner-area .rightboxx{display: table;    margin: 15px auto;}
+.digitalpartner-area .rightboxx .drightprocess-box{ padding:40px; min-height:auto;}
+.banner .banner-box {
+    width: 100%;
+}
+.sec-portfolio ul#nav-tabs-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+}
+@media (max-width: 625px) {
+.caroufredsel_wrapper{ height:400px;}
+.list_carousel li{ padding-top:75px;}
+}
+@media (max-width: 480px) {
+.fa.fa-chevron-circle-right{ display:none;}
+.sec-benefits h4{text-align:center;}
+.sec-digital-agency .sec-digital-agency-box-inner-fl {
+    padding: 37px 10px;
+    text-align: center;
+}
+.head-top ul {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+}
+@media (max-width: 450px) {
+.webprocess .processbox .detailbox-area h2{ font-size:28px; line-height:36px;}
+
+}
+@media (max-width: 360px) {
+.webprocess .processbox .detailbox-area h2{ font-size:22px; line-height:30px;}
+
+}*/
+
+
+@media (min-width: 320px) and (max-width: 767px){
+
+    #navlist{
+        display: none;
+    }
+
+    .header .nav>li>a {
+        font-size: 15px;
+        padding: 15px 0px 0;
+        text-align: center;
+    }
+    .head-top .col-md-8 {
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+
+    .head-top ul {
+        margin: 0;
+        padding: 0;
+        text-align: center;
+    }
+
+    .head-top ul li {
+        padding: 7px 5px;
+    }
+    .head-top ul li a {
+        font-size: 11px;
+    }
+    .head-top ul li:after {
+        right: -2px;
+        height: 10px;
+        top: 15px;
+    }
+
+.banner {
+    height: 82vh;
+    background-position: -730px 0px;
+    float: left;
+    position: relative;
+}
+
+#projec-single-slider .item{
+    height: 82vh;
+    background-position: -730px 0px;
+    float: left;
+    position: relative;
+}
+.banner:before, #projec-single-slider .item:before {
+    background-color: rgba(0, 0, 0, 0.64);
+    width: 100%;
+    position: absolute;
+    z-index: 9;
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    content: "";
+}
+
+#projec-single-slider .banner:before {
+    background-color: transparent;
+    z-index: 0;
+}
+    
+#projec-single-slider .owl-dots {
+    z-index: 999999;
+}
+    .banner .banner-box {
+    width: 100%;
+    padding: 0 0% 0 0;
+}
+
+.banner-box .heading, #projec-single-slider .banner-box .heading  {
+    font-size: 29px;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    text-align: left;
+    /* text-shadow: 0 1px 5px #000; */
+    z-index: 999;
+    position: relative;
+    text-align: center;
+}
+
+.banner .paragraph {
+    font-size: 14px;
+    color: #fff;
+    margin: 15px 0;
+    /* text-shadow: 0 0px 7px #000; */
+    /* background-color: rgba(0, 0, 0, 0.26); */
+    /* padding: 10px 10px 10px; */
+    /* border-radius: 5px; */
+    position: relative;
+    z-index: 99;
+    text-align: center;
+}
+
+.banner .banner-box .button a.btn {
+    font-size: 13px;
+    padding: 7px 10px;
+    font-weight: 500;
+}
+
+.banner .button {
+    margin: 30px auto;
+    position: relative;
+    z-index: 99;
+    display: table;
+    width: auto;
+    float: none;
+}
+
+.banner .banner-box .button span {
+    font-size: 14px;
+    padding: 0 0 0 10px;
+}
+
+.banner .banner-box .button span a {
+    font-size: 13px;
+}
+
+.clients h2 {
+    font-size: 22px;
+    text-align: center;
+    margin: 0;
+}
+
+.clients .col-md-12{
+    padding:0 0 ;
+}
+
+.clients .col-md-9{
+    padding:0 3px ;
+}
+
+.clients ul li {
+    padding-right: 5px;
+    width: 70px;
+}
+
+.clients img {
+    padding: 15px 0 0 0;
+    width: 90%;
+}
+
+.clients ul li:after {
+    width: 5px;
+    height: 105px;
+    right: 0px;
+    top: -15px;
+}
+
+.clients ul li:nth-child(4):after {
+    top: -20px;
+}
+
+.sec-digital-agency .sec-digital-agency-box-inner-fl {
+    padding: 35px 15px;
+    text-align: center;
+}
+
+.sec-digital-agency .sec-digital-agency-box-inner h4 {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.sec-digital-agency .sec-digital-agency-box-inner {
+    padding: 40px 40px;
+}
+
+
+.sec-digital-agency .sec-digital-agency-box-inner h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.banefit_box .pulse {
+    margin: auto;
+    display: table;
+}
+
+.sec-benefits h4 {
+    font-size: 21px;
+    text-align: center;
+}
+
+.sec-portfolio h1.heading {
+    font-size: 28px;
+    margin: 0;
+}
+
+.sec-portfolio-box h3 {
+    font-size: 22px;
+    text-align: center;
+}
+
+.sec-portfolio-box h3 span {
+    font-size: 26px;
+    display: block;
+    text-align: center;
+}
+
+.sec-portfolio-box p {
+    text-align: center;
+    font-size: 13px;
+}
+
+.sec-portfolio-box .sec-portfolio-box-1 .button a {
+    padding: 10px 20px;
+    font-size: 14px;
+}
+.sec-portfolio-box .sec-portfolio-box-1 .button {
+    padding: 0px 0 0px 0;
+}
+
+.col-md-3.sec-portfolio-box-1 {
+        width: 100% !important;
+}
+
+.sec-portfolio-box .col-md-3 {
+    padding: 0;
+    width: 50%;
+    float: left;
+}
+
+.sec-portfolio-box img {
+    width: auto;
+    margin: 0 auto;
+    height: 160px;
+}
+
+.sec-services-box-inner-l {
+    float: none;
+    width: 100%;
+    text-align: center;
+}
+
+.sec-services-box-inner-r {
+    float: none;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.sec-packages h1.heading {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.digitalpartner-area h2 {
+    margin: 0;
+    padding: 0;
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.btns-box .col-xs-12 {
+    width: 50%;
+    float: left;
+}
+
+.digitalpartner-area .btns-box .dlchat {
+    margin-top: 0;
+}
+
+
+.digitalpartner-area section.row .col-xs-12.fadeInUp {
+    width: 50%;
+}
+
+.digitalpartner-area section.row .col-xs-12.fadeInLeft {
+    width: 100%;
+}
+
+.pkg-sealed-icn:before {
+    right: -10px;
+    width: 90px;
+    background: url(../images/sprite.png) no-repeat -486px -491px;
+}
+
+.digitalpartner-area {
+    padding: 50px 0 30px;
+}
+
+.webprocess .processbox .process-img {
+    display: block;
+    margin-top: 40px;
+}
+
+.webprocess .processbox .detailbox-area h2 {
+    font-size: 30px;
+    line-height: 36px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.processbox p {
+    text-align: center;
+}
+
+.webprocess {
+    min-height: 662px;
+}
+
+.webprocess .processbox {
+    background: none;
+}
+
+.testimonial-area h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.testimonial-area section {
+    align-items: center;
+    display: block;
+}
+
+.testimonial-area .captionbox {
+    font-size: 16px;
+    line-height: 20px;
+    margin-left: 0;
+    text-align: center;
+    margin: 0 0 50px;
+}
+
+.testimonial-area .captionbox h2 {
+    font-size: 62px;
+    margin-bottom: 25px;
+}
+
+.testimonial-area .slider-area .testibox {
+    width: 90%;
+    max-width: 434px;
+    background: #fff;
+    margin-left: 0;
+    margin: auto;
+}
+
+.testimonial-area .owl-carousel .owl-item img {
+    display: block;
+    width: 100%;
+    margin: 10px 0 0;
+}
+
+.testimonial-area {
+    padding: 50px 0 20px;
+    background: #fff;
+}
+
+.discount-area h2 {
+    font-size: 23px;
+    line-height: 28px;
+    margin-bottom: 15px;
+}
+
+.discount-area {
+    font-size: 16px;
+    text-align: center;
+}
+
+.buttonarea aside {
+    margin-bottom: 20px;
+}
+
+.discount-area .buttonarea .lbtnn {
+    padding: 10px 33px;
+    font-size: 20px;
+}
+
+.testimonial-area .slider-area .testibox .quoter {
+    left: 0;
+    top: -18%;
+    right: 0;
+    margin: auto;
+}
+
+.testimonial-area .slider-area .testibox h2 {
+    text-align: center;
+}
+
+.testimonial-area .slider-area .testibox p {
+    font-weight: 300;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
+
+.footer h2 {
+    text-align: center;
+}
+
+.footer h2::after {
+    bottom: 0;
+    right: 0;
+    margin: auto;
+}
+
+.footer p {
+    margin-bottom: 30px;
+    font-weight: normal;
+    font-size: 13px;
+    text-align: center;
+}
+
+.footer h3 {
+    text-align: center;
+}
+
+.footer .service ul {
+    float: none;
+    margin: 0;
+    padding: 0;
+}
+
+.footer-bottom {
+    text-align: center;
+}
+
+.special-packg-sec {
+    padding: 30px 0 180px;
+}
+
+div#mega-packg img {
+    max-width: inherit;
+    width: 100%;
+    display: table;
+    margin: 0 auto 0;
+}
+
+.special-packg-sec.special-branding h2 {
+    padding: 0px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+}
+
+.special-packg-sec h2 {
+    font-size: 30px;
+    line-height: 35px;
+}
+
+.special-packg-sec h2 span {
+    font-size: 24px;
+}
+
+.special-packg-sec.special-branding p {
+    font-size: 13px;
+}
+
+ul.check-ul li {
+    font-size: 14px;
+    margin: 0 0 4px;
+}
+
+
+.price {
+    font-size: 40px;
+}
+
+.price span {
+    font-size: 17px;
+    margin: 0 10px 0 0;
+}
+
+.special-ordernow {
+    padding: 7px 10px;
+    font-size: 13px;
+}
+
+.sec-packages ul#nav-tabs-wrapper li a {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 11px;
+    border: none;
+    margin-bottom: -2px;
+    padding: 4px 2px;
+    margin-right: 1px;
+}
+
+.sec-logo-design h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+}
+
+.sec-logo-design h3 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.sec-logo-design p {
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.sec-logo-design .button a.btn-order {
+    padding: 12px 25px;
+    font-size: 14px;
+}
+
+.sec-logo-design .button {
+    float: none;
+     width: auto; 
+    clear: both;
+    margin: 30px auto;
+    display: table;
+}
+
+.sec-logo-design .button a.btn-chat {
+    font-size: 24px;
+    margin: 20px 0 0 12px;
+}
+
+.sec-portfolio-page .col-md-4 {
+    width: 50%;
+    float: left;
+}
+
+.sec-about h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+.sec-about p {
+    font-size: 13px;
+    text-align: center;
+}
+
+.sec-contact-form h1 {
+    font-size: 30px;
+}
+
+.sec-contact-form p {
+    font-size: 13px;
+}
+
+.contact-box-right {
+    padding: 10px 20px;
+    display: table;
+    text-align: center;
+    margin: 10px auto 0;
+}
+}
