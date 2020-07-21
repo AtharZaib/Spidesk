@@ -1,6 +1,3 @@
-<html>
-<body>
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -51,6 +48,12 @@ $headers = "From:" .$Email . "\r\n" .
 'X-Mailer: PHP/' . phpversion();
 
 mail($to, $subject, $message, $headers);
+
+
+
+
+header("Location: http://www.spidesk.com"); 
+exit();
 
 ?>
 
@@ -464,10 +467,4 @@ type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
 
 </body>
 
-</html>
-
-
-
-
-</body>
 </html>
