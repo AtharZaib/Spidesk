@@ -34,7 +34,7 @@ $Name=$_POST['cn'];
 	$PhoneNumner=$_POST['pn'];
 	 $Message=$_POST['message'];
 
-$to      = 'iatharzaib@gmail.com';
+$to      = 'support@spidesk.com';
 $subject = 'Query';
 $message = 'You have a new Query, 
 
